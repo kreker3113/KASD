@@ -1,0 +1,7 @@
+C:\Users\Uzer\source\repos\KASD\KASD\bin\Debug\KASD.exe.config
+C:\Users\Uzer\source\repos\KASD\KASD\bin\Debug\KASD.exe
+C:\Users\Uzer\source\repos\KASD\KASD\bin\Debug\KASD.pdb
+C:\Users\Uzer\source\repos\KASD\KASD\obj\Debug\KASD.csproj.AssemblyReference.cache
+C:\Users\Uzer\source\repos\KASD\KASD\obj\Debug\KASD.csproj.CoreCompileInputs.cache
+C:\Users\Uzer\source\repos\KASD\KASD\obj\Debug\KASD.exe
+C:\Users\Uzer\source\repos\KASD\KASD\obj\Debug\KASD.pdb
