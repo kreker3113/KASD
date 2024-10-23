@@ -1,0 +1,7 @@
+C:\Users\Uzer\source\repos\KASD4.2\KASD4.2\bin\Debug\KASD4.2.exe.config
+C:\Users\Uzer\source\repos\KASD4.2\KASD4.2\bin\Debug\KASD4.2.exe
+C:\Users\Uzer\source\repos\KASD4.2\KASD4.2\bin\Debug\KASD4.2.pdb
+C:\Users\Uzer\source\repos\KASD4.2\KASD4.2\obj\Debug\KASD4.2.csproj.AssemblyReference.cache
+C:\Users\Uzer\source\repos\KASD4.2\KASD4.2\obj\Debug\KASD4.2.csproj.CoreCompileInputs.cache
+C:\Users\Uzer\source\repos\KASD4.2\KASD4.2\obj\Debug\KASD4.2.exe
+C:\Users\Uzer\source\repos\KASD4.2\KASD4.2\obj\Debug\KASD4.2.pdb
