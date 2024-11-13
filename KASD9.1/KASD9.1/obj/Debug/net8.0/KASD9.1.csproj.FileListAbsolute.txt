@@ -1,0 +1,14 @@
+C:\Users\Uzer\source\repos\KASD9.1\KASD9.1\bin\Debug\net8.0\KASD9.1.exe
+C:\Users\Uzer\source\repos\KASD9.1\KASD9.1\bin\Debug\net8.0\KASD9.1.deps.json
+C:\Users\Uzer\source\repos\KASD9.1\KASD9.1\bin\Debug\net8.0\KASD9.1.runtimeconfig.json
+C:\Users\Uzer\source\repos\KASD9.1\KASD9.1\bin\Debug\net8.0\KASD9.1.dll
+C:\Users\Uzer\source\repos\KASD9.1\KASD9.1\bin\Debug\net8.0\KASD9.1.pdb
+C:\Users\Uzer\source\repos\KASD9.1\KASD9.1\obj\Debug\net8.0\KASD9.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uzer\source\repos\KASD9.1\KASD9.1\obj\Debug\net8.0\KASD9.1.AssemblyInfoInputs.cache
+C:\Users\Uzer\source\repos\KASD9.1\KASD9.1\obj\Debug\net8.0\KASD9.1.AssemblyInfo.cs
+C:\Users\Uzer\source\repos\KASD9.1\KASD9.1\obj\Debug\net8.0\KASD9.1.csproj.CoreCompileInputs.cache
+C:\Users\Uzer\source\repos\KASD9.1\KASD9.1\obj\Debug\net8.0\KASD9.1.dll
+C:\Users\Uzer\source\repos\KASD9.1\KASD9.1\obj\Debug\net8.0\refint\KASD9.1.dll
+C:\Users\Uzer\source\repos\KASD9.1\KASD9.1\obj\Debug\net8.0\KASD9.1.pdb
+C:\Users\Uzer\source\repos\KASD9.1\KASD9.1\obj\Debug\net8.0\KASD9.1.genruntimeconfig.cache
+C:\Users\Uzer\source\repos\KASD9.1\KASD9.1\obj\Debug\net8.0\ref\KASD9.1.dll
