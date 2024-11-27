@@ -1,0 +1,14 @@
+C:\Users\Uzer\source\repos\KASD12\KASD12\bin\Debug\net8.0\KASD12.exe
+C:\Users\Uzer\source\repos\KASD12\KASD12\bin\Debug\net8.0\KASD12.deps.json
+C:\Users\Uzer\source\repos\KASD12\KASD12\bin\Debug\net8.0\KASD12.runtimeconfig.json
+C:\Users\Uzer\source\repos\KASD12\KASD12\bin\Debug\net8.0\KASD12.dll
+C:\Users\Uzer\source\repos\KASD12\KASD12\bin\Debug\net8.0\KASD12.pdb
+C:\Users\Uzer\source\repos\KASD12\KASD12\obj\Debug\net8.0\KASD12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uzer\source\repos\KASD12\KASD12\obj\Debug\net8.0\KASD12.AssemblyInfoInputs.cache
+C:\Users\Uzer\source\repos\KASD12\KASD12\obj\Debug\net8.0\KASD12.AssemblyInfo.cs
+C:\Users\Uzer\source\repos\KASD12\KASD12\obj\Debug\net8.0\KASD12.csproj.CoreCompileInputs.cache
+C:\Users\Uzer\source\repos\KASD12\KASD12\obj\Debug\net8.0\KASD12.dll
+C:\Users\Uzer\source\repos\KASD12\KASD12\obj\Debug\net8.0\refint\KASD12.dll
+C:\Users\Uzer\source\repos\KASD12\KASD12\obj\Debug\net8.0\KASD12.pdb
+C:\Users\Uzer\source\repos\KASD12\KASD12\obj\Debug\net8.0\KASD12.genruntimeconfig.cache
+C:\Users\Uzer\source\repos\KASD12\KASD12\obj\Debug\net8.0\ref\KASD12.dll
