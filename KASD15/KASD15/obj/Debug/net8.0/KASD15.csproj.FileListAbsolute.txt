@@ -1,0 +1,14 @@
+C:\Users\Uzer\source\repos\KASD15\KASD15\bin\Debug\net8.0\KASD15.exe
+C:\Users\Uzer\source\repos\KASD15\KASD15\bin\Debug\net8.0\KASD15.deps.json
+C:\Users\Uzer\source\repos\KASD15\KASD15\bin\Debug\net8.0\KASD15.runtimeconfig.json
+C:\Users\Uzer\source\repos\KASD15\KASD15\bin\Debug\net8.0\KASD15.dll
+C:\Users\Uzer\source\repos\KASD15\KASD15\bin\Debug\net8.0\KASD15.pdb
+C:\Users\Uzer\source\repos\KASD15\KASD15\obj\Debug\net8.0\KASD15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uzer\source\repos\KASD15\KASD15\obj\Debug\net8.0\KASD15.AssemblyInfoInputs.cache
+C:\Users\Uzer\source\repos\KASD15\KASD15\obj\Debug\net8.0\KASD15.AssemblyInfo.cs
+C:\Users\Uzer\source\repos\KASD15\KASD15\obj\Debug\net8.0\KASD15.csproj.CoreCompileInputs.cache
+C:\Users\Uzer\source\repos\KASD15\KASD15\obj\Debug\net8.0\KASD15.dll
+C:\Users\Uzer\source\repos\KASD15\KASD15\obj\Debug\net8.0\refint\KASD15.dll
+C:\Users\Uzer\source\repos\KASD15\KASD15\obj\Debug\net8.0\KASD15.pdb
+C:\Users\Uzer\source\repos\KASD15\KASD15\obj\Debug\net8.0\KASD15.genruntimeconfig.cache
+C:\Users\Uzer\source\repos\KASD15\KASD15\obj\Debug\net8.0\ref\KASD15.dll
