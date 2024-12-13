@@ -1,0 +1,14 @@
+C:\Users\Uzer\source\repos\KASD19\KASD19\bin\Debug\net8.0\KASD19.exe
+C:\Users\Uzer\source\repos\KASD19\KASD19\bin\Debug\net8.0\KASD19.deps.json
+C:\Users\Uzer\source\repos\KASD19\KASD19\bin\Debug\net8.0\KASD19.runtimeconfig.json
+C:\Users\Uzer\source\repos\KASD19\KASD19\bin\Debug\net8.0\KASD19.dll
+C:\Users\Uzer\source\repos\KASD19\KASD19\bin\Debug\net8.0\KASD19.pdb
+C:\Users\Uzer\source\repos\KASD19\KASD19\obj\Debug\net8.0\KASD19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uzer\source\repos\KASD19\KASD19\obj\Debug\net8.0\KASD19.AssemblyInfoInputs.cache
+C:\Users\Uzer\source\repos\KASD19\KASD19\obj\Debug\net8.0\KASD19.AssemblyInfo.cs
+C:\Users\Uzer\source\repos\KASD19\KASD19\obj\Debug\net8.0\KASD19.csproj.CoreCompileInputs.cache
+C:\Users\Uzer\source\repos\KASD19\KASD19\obj\Debug\net8.0\KASD19.dll
+C:\Users\Uzer\source\repos\KASD19\KASD19\obj\Debug\net8.0\refint\KASD19.dll
+C:\Users\Uzer\source\repos\KASD19\KASD19\obj\Debug\net8.0\KASD19.pdb
+C:\Users\Uzer\source\repos\KASD19\KASD19\obj\Debug\net8.0\KASD19.genruntimeconfig.cache
+C:\Users\Uzer\source\repos\KASD19\KASD19\obj\Debug\net8.0\ref\KASD19.dll
