@@ -1,0 +1,4 @@
+C:\Users\Uzer\source\repos\KASD21\KASD21\obj\Debug\net8.0\KASD21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uzer\source\repos\KASD21\KASD21\obj\Debug\net8.0\KASD21.AssemblyInfoInputs.cache
+C:\Users\Uzer\source\repos\KASD21\KASD21\obj\Debug\net8.0\KASD21.AssemblyInfo.cs
+C:\Users\Uzer\source\repos\KASD21\KASD21\obj\Debug\net8.0\KASD21.csproj.CoreCompileInputs.cache
