@@ -1,0 +1,14 @@
+C:\Users\Uzer\source\repos\KASD26\KASD26\bin\Debug\net8.0\KASD26.exe
+C:\Users\Uzer\source\repos\KASD26\KASD26\bin\Debug\net8.0\KASD26.deps.json
+C:\Users\Uzer\source\repos\KASD26\KASD26\bin\Debug\net8.0\KASD26.runtimeconfig.json
+C:\Users\Uzer\source\repos\KASD26\KASD26\bin\Debug\net8.0\KASD26.dll
+C:\Users\Uzer\source\repos\KASD26\KASD26\bin\Debug\net8.0\KASD26.pdb
+C:\Users\Uzer\source\repos\KASD26\KASD26\obj\Debug\net8.0\KASD26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uzer\source\repos\KASD26\KASD26\obj\Debug\net8.0\KASD26.AssemblyInfoInputs.cache
+C:\Users\Uzer\source\repos\KASD26\KASD26\obj\Debug\net8.0\KASD26.AssemblyInfo.cs
+C:\Users\Uzer\source\repos\KASD26\KASD26\obj\Debug\net8.0\KASD26.csproj.CoreCompileInputs.cache
+C:\Users\Uzer\source\repos\KASD26\KASD26\obj\Debug\net8.0\KASD26.dll
+C:\Users\Uzer\source\repos\KASD26\KASD26\obj\Debug\net8.0\refint\KASD26.dll
+C:\Users\Uzer\source\repos\KASD26\KASD26\obj\Debug\net8.0\KASD26.pdb
+C:\Users\Uzer\source\repos\KASD26\KASD26\obj\Debug\net8.0\KASD26.genruntimeconfig.cache
+C:\Users\Uzer\source\repos\KASD26\KASD26\obj\Debug\net8.0\ref\KASD26.dll
