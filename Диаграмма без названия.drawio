@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 YaBrowser/25.2.0.0 Safari/537.36" version="26.0.16">
   <diagram name="Страница — 1" id="Wz7W_foQ-fIaF9sAPewU">
-    <mxGraphModel dx="884" dy="4041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2098" dy="4275" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1103,7 +1103,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-IguEGzYQd1nNIIbEKL5-109" value="ПЛАТ.ПВ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-IguEGzYQd1nNIIbEKL5-109" value="ПЛАТ.ПП" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="247.5" y="-2480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-IguEGzYQd1nNIIbEKL5-114" value="" style="line;strokeWidth=2;html=1;rotation=0;" vertex="1" parent="1">
@@ -1228,7 +1228,58 @@
           <mxGeometry x="147" y="-2735" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-IguEGzYQd1nNIIbEKL5-174" value="3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=29;" vertex="1" parent="1">
-          <mxGeometry x="400" y="-2812" width="40" height="50" as="geometry" />
+          <mxGeometry x="414" y="-2810" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-IguEGzYQd1nNIIbEKL5-175" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="454" y="-2790" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="-IguEGzYQd1nNIIbEKL5-176" value="&lt;font&gt;Конденсатор&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="485" y="-2803.75" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-IguEGzYQd1nNIIbEKL5-177" value="4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=29;" vertex="1" parent="1">
+          <mxGeometry x="412.5" y="-2755" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-IguEGzYQd1nNIIbEKL5-178" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="-2735" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="-IguEGzYQd1nNIIbEKL5-179" value="Преобразователь" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-2745" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-IguEGzYQd1nNIIbEKL5-180" value="&lt;font style=&quot;font-size: 29px;&quot;&gt;5&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-2430" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-IguEGzYQd1nNIIbEKL5-181" value="5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=29;" vertex="1" parent="1">
+          <mxGeometry x="414" y="-2705" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-IguEGzYQd1nNIIbEKL5-184" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="455" y="-2685" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="-IguEGzYQd1nNIIbEKL5-185" value="Плата powerbank" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="484" y="-2695" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-IguEGzYQd1nNIIbEKL5-186" value="6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=29;" vertex="1" parent="1">
+          <mxGeometry x="314" y="-2655" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-IguEGzYQd1nNIIbEKL5-187" value="6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=29;" vertex="1" parent="1">
+          <mxGeometry x="415" y="-2655" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-IguEGzYQd1nNIIbEKL5-188" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="452.5" y="-2640" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="-IguEGzYQd1nNIIbEKL5-189" value="Источник тока" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="485" y="-2650" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-IguEGzYQd1nNIIbEKL5-190" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="663.25" y="-3032" width="65" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="-IguEGzYQd1nNIIbEKL5-191" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="745" y="-3008.5" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="-IguEGzYQd1nNIIbEKL5-193" value="Светодиод" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="765" y="-3018.5" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-IguEGzYQd1nNIIbEKL5-195" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="-2925" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
